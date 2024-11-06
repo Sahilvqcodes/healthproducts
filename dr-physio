@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Health Products You Need for a Healthier Life</title>
+    
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/media.css">
+</head>
+<body>
+    <header>
+        <h1>Top Health Products You Need for a Healthier Life</h1>
+        <p>As today is the era of wellness,Top Health Products You Need for a Healthier Life can really change everything in the world of well-being. Starting from natural supplements that boost immunity and energy, through fit equipment designed to make your workout worth doing-these are products that'll support your health targets.Incorporate such advanced digital thermometers to quickly take stock of your health, or a fitness tracker that keeps track of your activity level. These are things that make you more responsible about your health issues.Further, by means of high-quality herbal supplements such as Ashwagandha, stress could be decreased and there can be a general state of vitality. Investing in the best health products brings along a superior physical state while also leading to clear mentality and emotional well-being. So embrace these tools towards your healthier, happier you!</p>
+    </header>
+    <div class="container">
+        <div class="product">
+            <div class="product-image-box">
+                <img src="https://m.media-amazon.com/images/I/612uK9h0yOL._SX679_.jpg" class="product-image" alt="Dr Physio Electric"></div>
+            <div class="content-box">
+                <h3>Dr Physio Full Body Electric Massager for Pain Relief – Ideal for Back, Legs, and Feet, White, Multi-Function</h3>
+                <p>Dr Physio Electric Full Body Massager- Versatile, powerful, and a great soothing relief massager for muscles pain and tension. Perfectly well suited for back pain as well as leg pain or foot pain, it comes with kneading, rolling, and vibrating technology. It is a massager that helps rejuvenate and relax your muscles with you whether it is post-workout soreness, fatigue from standing or sitting for long hours, or chronic pain issues.This tool comes with an ergonomic shape which makes it easy for its use, and then applies to the body according to the place. Then you can change the various kinds of intensity, the various types of massage, with many speed controls through user-friendly control panels. Durability is another feature from its build which ensures durability while the compact and nice-looking white design blends really well with any home and office.It is perfect for all those who are looking forward to relief from pain, blood circulation, and relaxation in muscles. The Dr Physio Electric Massager is a must-have for those who would want to improve their wellness level. Whether it is the end of a tiring day at work or an exhausting workout, a professional massage right in your comfort at home is guaranteed through the Dr Physio Electric Massager.</p>
+                <div class="button-box">
+                    <a href="https://amzn.to/3UDX4LF" class="btn">Buy Now</a>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        <!-- Add more products as needed -->
+    </div>
+</body>
+</html>
+
